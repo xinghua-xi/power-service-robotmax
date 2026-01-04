@@ -1,0 +1,12 @@
+# 忽略node_modules（第三方依赖无需检查）
+node_modules/
+# 忽略打包后的dist目录
+dist/
+# 忽略Vue配置文件
+vue.config.js
+# 忽略babel配置文件
+babel.config.js
+# 忽略静态资源（图片/样式等）
+src/assets/
+# 忽略临时文件
+*.tmp

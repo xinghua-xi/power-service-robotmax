@@ -1,0 +1,22 @@
+{
+    "name": "power-service-frontend",
+    "version": "1.0.0",
+    "description": "电力服务机器人前端系统",
+    "main": "index.js",
+    "scripts": {
+        "serve": "vue-cli-service serve",
+        "build": "vue-cli-service build",
+        "lint": "vue-cli-service lint"
+    },
+    "dependencies": {
+        "axios": "^1.4.0",
+        "vue": "^3.3.0",
+        "vue-router": "^4.2.0"
+    },
+    "devDependencies": {
+        "@vue/cli-plugin-eslint": "~5.0.0",
+        "@vue/cli-service": "~5.0.0",
+        "eslint": "^8.57.1",
+        "eslint-plugin-vue": "^10.6.2"
+    }
+}
